@@ -1,0 +1,87 @@
+6/12/2023 2:37:28 PM	This log contains information about the import schema operation into project 'adventureworks' on computer 'windows-vm-003' by user 'azureuser'.
+6/12/2023 2:37:28 PM	Import of database schema has started.
+6/12/2023 2:37:29 PM	Gathering database credentials
+6/12/2023 2:37:29 PM	Gathering database options
+6/12/2023 2:37:29 PM	Gathering generic database scoped configuration option
+6/12/2023 2:37:29 PM	Gathering users
+6/12/2023 2:37:29 PM	Gathering roles
+6/12/2023 2:37:29 PM	Gathering application roles
+6/12/2023 2:37:29 PM	Gathering role memberships
+6/12/2023 2:37:29 PM	Gathering filegroups
+6/12/2023 2:37:29 PM	Gathering full-text catalogs
+6/12/2023 2:37:29 PM	Gathering assemblies
+6/12/2023 2:37:29 PM	Gathering certificates
+6/12/2023 2:37:29 PM	Gathering asymmetric keys
+6/12/2023 2:37:29 PM	Gathering symmetric keys
+6/12/2023 2:37:29 PM	Gathering encrypted symmetric keys
+6/12/2023 2:37:29 PM	Gathering schemas
+6/12/2023 2:37:29 PM	Gathering XML schema collections
+6/12/2023 2:37:29 PM	Gathering user-defined data types
+6/12/2023 2:37:29 PM	Gathering user-defined types
+6/12/2023 2:37:29 PM	Gathering table types
+6/12/2023 2:37:29 PM	Gathering unique keys for table types
+6/12/2023 2:37:29 PM	Gathering primary keys for table types
+6/12/2023 2:37:29 PM	Gathering indexes for table types
+6/12/2023 2:37:29 PM	Gathering check constraints for table types
+6/12/2023 2:37:29 PM	Gathering default constraints for table types
+6/12/2023 2:37:29 PM	Gathering partition functions
+6/12/2023 2:37:29 PM	Gathering partition schemes
+6/12/2023 2:37:29 PM	Gathering functions
+6/12/2023 2:37:30 PM	Gathering encrypted functions
+6/12/2023 2:37:30 PM	Gathering aggregates
+6/12/2023 2:37:30 PM	Gathering procedures
+6/12/2023 2:37:30 PM	Gathering encrypted procedures
+6/12/2023 2:37:30 PM	Gathering tables
+6/12/2023 2:37:30 PM	Gathering primary keys
+6/12/2023 2:37:30 PM	Gathering unique constraints
+6/12/2023 2:37:30 PM	Gathering foreign keys
+6/12/2023 2:37:30 PM	Gathering default constraints
+6/12/2023 2:37:30 PM	Gathering check constraints
+6/12/2023 2:37:30 PM	Gathering views
+6/12/2023 2:37:30 PM	Gathering encrypted views
+6/12/2023 2:37:30 PM	Gathering indexes
+6/12/2023 2:37:31 PM	Gathering statistics
+6/12/2023 2:37:31 PM	Gathering full-text index stoplists
+6/12/2023 2:37:31 PM	Gathering search property lists
+6/12/2023 2:37:31 PM	Gathering search properties
+6/12/2023 2:37:31 PM	Gathering full-text indexes
+6/12/2023 2:37:31 PM	Gathering column store indexes
+6/12/2023 2:37:31 PM	Gathering spatial indexes
+6/12/2023 2:37:31 PM	Gathering XML indexes
+6/12/2023 2:37:31 PM	Gathering Selective XML indexes
+6/12/2023 2:37:31 PM	Gathering encrypted triggers
+6/12/2023 2:37:31 PM	Gathering triggers
+6/12/2023 2:37:31 PM	Gathering encrypted and clr ddl triggers
+6/12/2023 2:37:31 PM	Gathering ddl triggers
+6/12/2023 2:37:32 PM	Creating edge constraints
+6/12/2023 2:37:32 PM	Gathering synonyms
+6/12/2023 2:37:32 PM	Gathering defaults
+6/12/2023 2:37:32 PM	Gathering data constraint uddt bindings
+6/12/2023 2:37:32 PM	Gathering rules
+6/12/2023 2:37:32 PM	Gathering data constraint uddt bindings
+6/12/2023 2:37:32 PM	Gathering message types
+6/12/2023 2:37:32 PM	Gathering queues
+6/12/2023 2:37:32 PM	Gathering contracts
+6/12/2023 2:37:32 PM	Gathering services
+6/12/2023 2:37:32 PM	Gathering event notifications
+6/12/2023 2:37:32 PM	Gathering remote service bindings
+6/12/2023 2:37:32 PM	Gathering broker priorities
+6/12/2023 2:37:32 PM	Gathering signatures
+6/12/2023 2:37:32 PM	Gathering data compression options
+6/12/2023 2:37:32 PM	Gathering sequence types
+6/12/2023 2:37:32 PM	Gathering security policies
+6/12/2023 2:37:32 PM	Gather column encryption keys
+6/12/2023 2:37:32 PM	Gathering column master keys
+6/12/2023 2:37:32 PM	Gathering external data sources
+6/12/2023 2:37:32 PM	Gathering external file formats
+6/12/2023 2:37:32 PM	Gathering external tables
+6/12/2023 2:37:32 PM	Gathering extended properties
+6/12/2023 2:37:32 PM	Gathering assemblies
+6/12/2023 2:37:32 PM	Gathering credentials
+6/12/2023 2:37:32 PM	Gathering logins
+6/12/2023 2:37:32 PM	Gathering server audits
+6/12/2023 2:37:34 PM	Scanning project for duplicate elements
+6/12/2023 2:37:34 PM	Finished duplicate element processing
+6/12/2023 2:37:38 PM	Finished importing database.
+6/12/2023 2:37:38 PM	A summary of the import was saved to the following location: C:\Users\azureuser\db_sdlc\db_test\adventureworks\adventureworks\Import Schema Logs\adventureworks_20230612090728.log
+6/12/2023 2:37:38 PM	Click Finish to continue...
