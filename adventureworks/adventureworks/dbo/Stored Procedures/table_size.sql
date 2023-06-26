@@ -1,4 +1,4 @@
-﻿create proc table_size as begin
+﻿alter proc table_size as begin
 begin tran
 SELECT 
     t.name AS TableName,
